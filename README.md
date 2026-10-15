@@ -1,0 +1,2 @@
+# netflix-landingpage
+SCHOOL PRODECT TO CREATE NETFLIX LANDING PAGE
